@@ -16,6 +16,7 @@ public class FirstTest {
         Configuration.pageLoadStrategy = "eager";
         Configuration.holdBrowserOpen = true;
     }
+
     @Test
 
     void simpleCheckTest(){
